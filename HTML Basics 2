@@ -1,0 +1,11 @@
+HTML Basics
+today we will learn about Paragraphs Headings and Links.
+Paragraphs in HTML look like this "<p>paragraph</p>"
+Browsers will automatically put spaces between two paragraphs
+Headings in HTML look like this "<h1>Heading</h1>"
+The number in the code means how important it is
+H1 is the highest and H6 is the lowest.
+Links in HTML look like this"<a href="https://www.example.com">Text to click to go to link</a>"
+If you put a link and then add a text to click (ex.<a href="https://github.com">Best coding platform</a>)
+you will see that text has a blue color and underline. if you click it you will go to the link that you put in the "" of href attribute.
+Check the other tutorials to learn more.
