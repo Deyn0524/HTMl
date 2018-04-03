@@ -1,0 +1,12 @@
+﻿<!Doctype html>
+<html lang="en">
+<head>
+<title>Put the title of the new tab</title>
+</head>
+<body>
+<p>put a paragraph</p>
+</body>
+</html>
+<!--Please do not save this as a .txt file.
+Click save as when you are done and then click save as type and click all files
+name your file like this"filename.html".and then save.Please repost and delete this comment.-->
