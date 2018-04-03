@@ -1,0 +1,37 @@
+html basics:
+HTML means "Hypertext Markup Language"
+HTML is the structure of websites.
+HTMl files can be created with Text editors like Notepad.
+We will use notepad for our project
+project no.1:My first web page
+1.Open notepad(or text editor used)
+2.type <!Doctype html>
+3.Type <html>. this will be the start of our code.
+4.type <head> and click enter 2 times.Head is the part of the HTMl that cannot be seen on the web page. But titles can work inside Head
+5.Type </head>
+6.in between <head> and</head> type <title>
+7.Type the title of the Tab (e.g. My website)and after that type </title>
+8.type <body> after </head>
+9.Type <p> And put any text you want then type </p>
+10.type</body> and then type </html> at the end.
+11.It should look like this.
+<!Doctype html>
+<html>
+<head>
+<title>Title of the tab</title>
+</head>
+<body>
+<p>Random text</p>
+</body>
+</html>.
+And you have a basic html page
+But dont save it as a .txt file, save it as a .HTM or.HTML file
+Steps:
+1.click save as
+2. click save as type and click All files
+3.make the name like this "filename.html" or "filename.htm"
+4.save it in a folder
+5.now you can open it in a browser by double clicking it!
+check out my other tutorials to learn more.
+
+
